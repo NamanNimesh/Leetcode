@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,10 +94,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/NamanNimesh/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/NamanNimesh/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Array
 |  |
 | ------- |
@@ -110,12 +113,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Math
 |  |
 | ------- |
@@ -195,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
