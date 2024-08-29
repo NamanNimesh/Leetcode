@@ -120,10 +120,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
 | ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -185,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
