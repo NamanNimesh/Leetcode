@@ -74,4 +74,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Graph
+|  |
+| ------- |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/NamanNimesh/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+## Shortest Path
+|  |
+| ------- |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/NamanNimesh/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
