@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Bit Manipulation
 |  |
@@ -228,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
