@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -138,8 +139,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
