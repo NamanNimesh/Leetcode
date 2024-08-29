@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0993-tallest-billboard](https://github.com/NamanNimesh/Leetcode/tree/master/0993-tallest-billboard) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
+| [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0993-tallest-billboard](https://github.com/NamanNimesh/Leetcode/tree/master/0993-tallest-billboard) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
+| [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
@@ -269,5 +273,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bitmask
 |  |
 | ------- |
+| [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
