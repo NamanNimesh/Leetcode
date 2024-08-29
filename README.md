@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +172,17 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
