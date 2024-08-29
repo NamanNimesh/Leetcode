@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Graph
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Matrix
 |  |
