@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Sliding Window
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Randomized
