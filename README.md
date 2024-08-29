@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -183,11 +184,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
+| [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -251,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
