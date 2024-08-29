@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Tree
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Greedy
