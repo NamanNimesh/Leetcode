@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/NamanNimesh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NamanNimesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/NamanNimesh/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NamanNimesh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NamanNimesh/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NamanNimesh/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
