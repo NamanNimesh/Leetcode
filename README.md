@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/NamanNimesh/Leetcode/tree/master/0263-ugly-number) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NamanNimesh/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Combinatorics
 |  |
@@ -356,4 +358,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
