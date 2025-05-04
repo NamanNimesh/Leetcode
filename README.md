@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/NamanNimesh/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/NamanNimesh/Leetcode/tree/master/0263-ugly-number) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
