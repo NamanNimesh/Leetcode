@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
