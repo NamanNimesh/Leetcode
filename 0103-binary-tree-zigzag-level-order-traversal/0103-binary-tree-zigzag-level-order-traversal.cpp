@@ -17,35 +17,39 @@ public:
         {
             return result;
         }
-        queue <TreeNode*> nodesQueue;
+        queue<TreeNode*> nodesQueue;
         nodesQueue.push(root);
         bool leftToRight = true;
-        
+
         while(!nodesQueue.empty())
         {
-            int size = nodesQueue.size();
+            int size = nodesQueue.size(); 
             vector<int> row(size);
-            for(int i =0; i<size;i++)
+            for(int i = 0; i<size ; i++)
             {
                 TreeNode* node = nodesQueue.front();
                 nodesQueue.pop();
-                //find position to fill node's value
-                int index = (leftToRight)? i:(size-1-i);
-                row[index] = node->val;
-                if(node->left){
+
+                //find postion to fill node's position
+                int index = (leftToRight)? i: (size-1-i);
+                row[index]= node->val;
+                if(node->left)
+                {
                     nodesQueue.push(node->left);
                 }
-                if(node->right)
-                {
+                if(node->right){
                     nodesQueue.push(node->right);
                 }
 
+        
             }
-            //after this level
+            //after the level
             leftToRight = !leftToRight;
             result.push_back(row);
-            
+
         }
         return result;
+
+        
     }
 };
