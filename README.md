@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NamanNimesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/NamanNimesh/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/NamanNimesh/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NamanNimesh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/NamanNimesh/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/NamanNimesh/Leetcode/tree/master/0507-perfect-number) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/NamanNimesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NamanNimesh/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -301,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/NamanNimesh/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NamanNimesh/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
