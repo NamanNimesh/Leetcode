@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NamanNimesh/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NamanNimesh/Leetcode/tree/master/0049-group-anagrams) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NamanNimesh/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
