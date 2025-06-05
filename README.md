@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NamanNimesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2342-minimum-average-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Number Theory
 |  |
@@ -442,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NamanNimesh/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 <!---LeetCode Topics End-->
