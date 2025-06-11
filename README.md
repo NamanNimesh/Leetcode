@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2342-minimum-average-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/NamanNimesh/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -468,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamanNimesh/Leetcode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
