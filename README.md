@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/NamanNimesh/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/NamanNimesh/Leetcode/tree/master/0342-power-of-four) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/NamanNimesh/Leetcode/tree/master/0507-perfect-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/NamanNimesh/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/NamanNimesh/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/NamanNimesh/Leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/NamanNimesh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NamanNimesh/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/NamanNimesh/Leetcode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
