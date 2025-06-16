@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NamanNimesh/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NamanNimesh/Leetcode/tree/master/0058-length-of-last-word) |
+| [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamanNimesh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NamanNimesh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/NamanNimesh/Leetcode/tree/master/0118-pascals-triangle) |
