@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/NamanNimesh/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NamanNimesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/NamanNimesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NamanNimesh/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
