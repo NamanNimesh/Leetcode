@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NamanNimesh/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NamanNimesh/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/NamanNimesh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/NamanNimesh/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NamanNimesh/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/NamanNimesh/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NamanNimesh/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/NamanNimesh/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 ## Monotonic Stack
 |  |
