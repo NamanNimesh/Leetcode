@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/NamanNimesh/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
 | [0335-self-crossing](https://github.com/NamanNimesh/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/NamanNimesh/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/NamanNimesh/Leetcode/tree/master/0507-perfect-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/NamanNimesh/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 ## Monotonic Stack
 |  |
