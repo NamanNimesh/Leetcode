@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/NamanNimesh/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
@@ -522,5 +523,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
