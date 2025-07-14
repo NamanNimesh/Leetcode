@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/NamanNimesh/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0993-tallest-billboard](https://github.com/NamanNimesh/Leetcode/tree/master/0993-tallest-billboard) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
