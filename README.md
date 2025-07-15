@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NamanNimesh/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NamanNimesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/NamanNimesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2342-minimum-average-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/NamanNimesh/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
