@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NamanNimesh/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NamanNimesh/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NamanNimesh/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -442,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2342-minimum-average-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2342-minimum-average-difference) |
