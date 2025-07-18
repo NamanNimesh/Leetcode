@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0993-tallest-billboard](https://github.com/NamanNimesh/Leetcode/tree/master/0993-tallest-billboard) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamanNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/NamanNimesh/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2486-most-frequent-even-element](https://github.com/NamanNimesh/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
