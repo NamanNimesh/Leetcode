@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/NamanNimesh/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NamanNimesh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/NamanNimesh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/NamanNimesh/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NamanNimesh/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/NamanNimesh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/NamanNimesh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamanNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/NamanNimesh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
