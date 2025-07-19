@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/NamanNimesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/NamanNimesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NamanNimesh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0697-degree-of-an-array](https://github.com/NamanNimesh/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamanNimesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NamanNimesh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/NamanNimesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NamanNimesh/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
