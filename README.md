@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/NamanNimesh/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NamanNimesh/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/NamanNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/NamanNimesh/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/NamanNimesh/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/NamanNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamanNimesh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NamanNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
 |  |
 | ------- |
