@@ -1,18 +1,33 @@
-class Solution { // 4 ms, faster than 89.31%
+class Solution {
 public:
-    int trap(vector<int>& height) {
+
+    vector<int> prefixMax(vector<int> &height){
         int n = height.size();
-        vector<int> leftMax(n), rightMax(n);
-        for (int i = 1; i < n; ++i) 
-            leftMax[i] = max(height[i-1], leftMax[i-1]);
-        for (int i = n-2; i >= 0; --i) 
-            rightMax[i] = max(height[i+1], rightMax[i+1]);
-        
-        int ans = 0;
-        for (int i = 0; i < n; ++i) {
-            int waterLevel = min(leftMax[i], rightMax[i]);
-            if (waterLevel >= height[i]) ans += waterLevel - height[i];
+        vector<int> prefix(n);
+         prefix[0] = height[0];
+        for(int i = 1; i<n; i++){
+            prefix[i] = max(prefix[i-1],height[i]);
         }
-        return ans;
+        return prefix;
+    }
+    vector<int> suffixMax(vector<int> &height){
+        int n = height.size();
+        vector<int> suffix(n);
+         suffix[n-1] = height[n-1];
+        for(int i = n-2; i>= 0; i--){
+            suffix[i] = max(suffix[i+1],height[i]);
+        }
+        return suffix;
+    }
+    int trap(vector<int>& height) {
+        int totalWater = 0;
+        vector<int> leftMax = prefixMax(height);
+        vector<int> rightMax = suffixMax(height);
+        for(int i = 0; i< height.size();i++){
+            totalWater += min(leftMax[i],rightMax[i])-height[i];
+           
+        }
+
+        return totalWater;
     }
 };
