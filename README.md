@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/NamanNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/NamanNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2227-sum-of-subarray-ranges](https://github.com/NamanNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2342-minimum-average-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/NamanNimesh/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/NamanNimesh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/NamanNimesh/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/NamanNimesh/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
