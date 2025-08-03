@@ -20,12 +20,14 @@ public:
                     if (st.top() < abs(asteroid)) {
                         // The asteroid on the stack is smaller, so it gets destroyed.
                         st.pop();
-                    } else if (st.top() == abs(asteroid)) {
+                    } 
+                    else if (st.top() == abs(asteroid)) {
                         // Both asteroids are the same size, so they both get destroyed.
                         st.pop();
                         exploded = true; // Mark as exploded so we don't push the current asteroid
                         break; // No need to check further collisions for this asteroid
-                    } else { // st.top() > abs(asteroid)
+                    } 
+                    else { // st.top() > abs(asteroid)
                         // The current asteroid is smaller, so it gets destroyed.
                         exploded = true;
                         break; // The stack top remains, so we can stop checking for this asteroid.
@@ -49,7 +51,7 @@ public:
             st.pop();
         }
         // Reverse the vector to get the correct order.
-        std::reverse(res.begin(), res.end());
+        reverse(res.begin(), res.end());
         return res;
     }
 };
