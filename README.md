@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/NamanNimesh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/NamanNimesh/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NamanNimesh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/NamanNimesh/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NamanNimesh/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/NamanNimesh/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
@@ -584,4 +586,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
