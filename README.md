@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/NamanNimesh/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/NamanNimesh/Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NamanNimesh/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/NamanNimesh/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NamanNimesh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/NamanNimesh/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NamanNimesh/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/NamanNimesh/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
@@ -593,4 +597,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
