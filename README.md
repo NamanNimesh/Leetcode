@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/NamanNimesh/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/NamanNimesh/Leetcode/tree/master/0735-asteroid-collision) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NamanNimesh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -606,4 +610,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
