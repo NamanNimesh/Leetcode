@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NamanNimesh/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/NamanNimesh/Leetcode/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NamanNimesh/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Math
 |  |
 | ------- |
