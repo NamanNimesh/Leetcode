@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0915-generate-random-point-in-a-circle](https://github.com/NamanNimesh/Leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NamanNimesh/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2050-count-good-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/NamanNimesh/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NamanNimesh/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NamanNimesh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NamanNimesh/Leetcode/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/NamanNimesh/Leetcode/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
