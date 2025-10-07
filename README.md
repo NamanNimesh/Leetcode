@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/NamanNimesh/Leetcode/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanNimesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0483-smallest-good-base](https://github.com/NamanNimesh/Leetcode/tree/master/0483-smallest-good-base) |
 | [0507-perfect-number](https://github.com/NamanNimesh/Leetcode/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/NamanNimesh/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NamanNimesh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
