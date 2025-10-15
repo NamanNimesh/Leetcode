@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0414-third-maximum-number](https://github.com/NamanNimesh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NamanNimesh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NamanNimesh/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/NamanNimesh/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/NamanNimesh/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/NamanNimesh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
