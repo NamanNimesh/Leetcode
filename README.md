@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NamanNimesh/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NamanNimesh/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3208-count-beautiful-substrings-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3208-count-beautiful-substrings-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamanNimesh/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamanNimesh/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Graph
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamanNimesh/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0823-split-array-with-same-average](https://github.com/NamanNimesh/Leetcode/tree/master/0823-split-array-with-same-average) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamanNimesh/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Linked List
 |  |
 | ------- |
