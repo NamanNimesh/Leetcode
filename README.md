@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/NamanNimesh/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NamanNimesh/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NamanNimesh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NamanNimesh/Leetcode/tree/master/0268-missing-number) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/NamanNimesh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/NamanNimesh/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/NamanNimesh/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/NamanNimesh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NamanNimesh/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/NamanNimesh/Leetcode/tree/master/0263-ugly-number) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NamanNimesh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NamanNimesh/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/NamanNimesh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NamanNimesh/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/NamanNimesh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/0349-intersection-of-two-arrays) |
