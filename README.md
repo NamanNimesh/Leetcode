@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/NamanNimesh/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NamanNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/NamanNimesh/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NamanNimesh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
@@ -651,4 +653,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
