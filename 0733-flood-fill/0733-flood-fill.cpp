@@ -5,7 +5,7 @@ private:
         int row = image.size();
         int col = image[0].size();
         if (i < 0 || j < 0 || i >= row || j >= col ||
-            image[i][j] != originalColor || image[i][j] == color) {
+            image[i][j] != originalColor) {
             return;
         }
         image[i][j] = color;
@@ -19,6 +19,7 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
                                   int color) {
         int originalColor = image[sr][sc];
+        if(originalColor == color) return image;
         dfs(sr, sc, image, color, originalColor);
         return image;
     }
