@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/NamanNimesh/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/NamanNimesh/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NamanNimesh/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1913-make-the-xor-of-all-segments-equal-to-zero](https://github.com/NamanNimesh/Leetcode/tree/master/1913-make-the-xor-of-all-segments-equal-to-zero) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NamanNimesh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0770-couples-holding-hands](https://github.com/NamanNimesh/Leetcode/tree/master/0770-couples-holding-hands) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Randomized
 |  |
