@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1185-find-in-mountain-array](https://github.com/NamanNimesh/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/NamanNimesh/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NamanNimesh/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NamanNimesh/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/NamanNimesh/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0894-random-pick-with-blacklist](https://github.com/NamanNimesh/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/NamanNimesh/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 ## Randomized
