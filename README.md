@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/NamanNimesh/Leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/NamanNimesh/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Array
 |  |
 | ------- |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/NamanNimesh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1928-number-of-orders-in-the-backlog](https://github.com/NamanNimesh/Leetcode/tree/master/1928-number-of-orders-in-the-backlog) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/NamanNimesh/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Number Theory
 |  |
 | ------- |
@@ -679,4 +681,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/NamanNimesh/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
