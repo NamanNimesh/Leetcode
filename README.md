@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/NamanNimesh/Leetcode/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/NamanNimesh/Leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamanNimesh/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamanNimesh/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Graph
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3221-find-the-peaks](https://github.com/NamanNimesh/Leetcode/tree/master/3221-find-the-peaks) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/NamanNimesh/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NamanNimesh/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamanNimesh/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3790-fruits-into-baskets-ii](https://github.com/NamanNimesh/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/NamanNimesh/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NamanNimesh/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NamanNimesh/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamanNimesh/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
 | ------- |
