@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/NamanNimesh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NamanNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NamanNimesh/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/NamanNimesh/Leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/NamanNimesh/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/NamanNimesh/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/NamanNimesh/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NamanNimesh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NamanNimesh/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/NamanNimesh/Leetcode/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/NamanNimesh/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NamanNimesh/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -683,6 +685,11 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/NamanNimesh/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/NamanNimesh/Leetcode/tree/master/0547-number-of-provinces) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NamanNimesh/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NamanNimesh/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
