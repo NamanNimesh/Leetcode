@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamanNimesh/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/NamanNimesh/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0884-k-similar-strings](https://github.com/NamanNimesh/Leetcode/tree/master/0884-k-similar-strings) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/NamanNimesh/Leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamanNimesh/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NamanNimesh/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NamanNimesh/Leetcode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/NamanNimesh/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/NamanNimesh/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamanNimesh/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/NamanNimesh/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NamanNimesh/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
